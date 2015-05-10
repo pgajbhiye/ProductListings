@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Products</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating">Rating\u0020:</string>
+    <string name="price">Price\u0020\u0020\u0020:</string>
+    <string name="user">Users\u0020\u0020:</string>
+    <string name="type">Type\u0020\u0020\u0020:</string>
+    <string name="lastupdate">Last Updated:</string>
+    <string name="url">Click here to know more</string>
+    <string name="price_sort">Sort By Price</string>
+    <string name="rating_sort">Sort By Rating</string>
+
+</resources>
